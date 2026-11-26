@@ -5,8 +5,9 @@ Building Technology. Empowering Communities.
 A Technology & Software Development Initiative
 
 [![Organization](https://img.shields.io/badge/Organization-Aura%20Community%20ACT-0066FF?style=for-the-badge)](https://github.com/auracommunityact)
-""GitHub" 
-(https://img.shields.io/badge/GitHub-Official%20Organization-181717?style=for-the-badge&logo=github)" (https://github.com/auracommunityact)
+<a href="https://github.com/auracommunityact">
+  <img src="https://img.shields.io/badge/GitHub-Official%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Official Organization">
+</a>
 
 "🌐 Official Website" (https://auracommunityact.github.io/Auracommunityact) • "💻 GitHub" (https://github.com/auracommunityact)
 
