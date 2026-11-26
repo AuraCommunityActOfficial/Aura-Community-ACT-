@@ -74,13 +74,21 @@ To build useful digital products, explore innovative technologies, encourage lea
 
 🤝 Connect With Us
 
-<div align="center">""Website" (https://img.shields.io/badge/Official_Website-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white)" (https://auracommunityact.github.io/Auracommunityact)
+<div align="center">
 
-""YouTube" (https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)" (https://youtube.com/@auracommunityact)
+<a href="https://auracommunityact.github.io/Auracommunityact">
+  <img src="https://img.shields.io/badge/Official_Website-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website">
+</a>
 
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/auracommunityact)
+<a href="https://youtube.com/@auracommunityact">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
 
-</div>---
+<a href="https://github.com/auracommunityact">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
 
 <div align="center">🔵 AURA COMMUNITY ACT
 
