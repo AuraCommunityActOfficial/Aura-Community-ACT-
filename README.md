@@ -9,7 +9,9 @@ A Technology & Software Development Initiative
   <img src="https://img.shields.io/badge/GitHub-Official%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Official Organization">
 </a>
 
-"🌐 Official Website" (https://auracommunityact.github.io/Auracommunityact) • "💻 GitHub" (https://github.com/auracommunityact)
+<a href="https://auracommunityact.github.io/Auracommunityact">🌐 Official Website</a>
+•
+<a href="https://github.com/auracommunityact">💻 GitHub</a>
 
 </div>---
 
